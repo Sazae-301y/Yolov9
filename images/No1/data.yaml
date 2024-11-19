@@ -1,6 +1,6 @@
-train: ../train/images
-val: ../valid/images
-test: ../test/images
+train: ../images/No1/train/images
+val: ../images/No1/valid/images
+test: ../images/No1/test/images
 
 nc: 2
 names: ['6month_ine', '9month_ine']
